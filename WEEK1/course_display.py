@@ -1,0 +1,15 @@
+# This Program display Course Information
+print("I'm learning python")
+
+print('python is interesting')
+print()     
+print("==============================")
+print("COS101 PRACTICAL")
+print("introduction to python")
+print("==============================")
+print()
+print("Programme: Software Engineering")
+print("level: 100")
+print("week: 1")
+print()
+print("Today i will create and run a python program")
